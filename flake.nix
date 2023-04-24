@@ -11,6 +11,10 @@
 				description = "Python template";
 				path = ./python;
 			};
+			blank = {
+				description = "Blank template";
+				path = ./blank;
+			};
 		};
 	};
 }
